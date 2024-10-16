@@ -1,0 +1,20 @@
+{
+  "name": "@vani0-0/file-uploader-vue",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.10"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "typescript": "*",
+    "vite": "*",
+    "vue-tsc": "^2.1.6"
+  }
+}
