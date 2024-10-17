@@ -1,4 +1,5 @@
 import { siteConfig } from '@/config/site'
+import structure from '@/structure.json'
 import { Helmet } from 'react-helmet-async'
 
 function Seo() {
@@ -26,7 +27,7 @@ function Seo() {
       <link rel="github" href={siteConfig.links.github} />
 
       <script type="application/ld+json">
-        {JSON.stringify(import('@/structure.json'))}
+        {JSON.stringify(structure)}
       </script>
     </Helmet>
   )
