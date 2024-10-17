@@ -7,6 +7,7 @@ export const siteConfig = {
   author: structure.author.name,
   ogImage: structure.image,
   url: structure.url,
+  googlesiteverification: structure['google-site-verification'],
   links: {
     github: 'https://github.com/vani0-0/file-uploader',
   },

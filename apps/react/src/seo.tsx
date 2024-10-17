@@ -24,6 +24,7 @@ function Seo() {
       <meta property="twitter:description" content={siteConfig.description} />
       <meta property="twitter:image" content={siteConfig.ogImage} />
 
+      <meta name="google-site-verification" content={siteConfig.googlesiteverification} />
       <link rel="github" href={siteConfig.links.github} />
 
       <script type="application/ld+json">
