@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
+    "tailwindcss": "*",
     "typescript": "*",
     "vite": "*",
     "vue-tsc": "^2.1.6"
