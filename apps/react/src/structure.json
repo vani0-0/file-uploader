@@ -3,10 +3,10 @@
   "@type": "WebApplication",
   "name": "File Uploader React",
   "description": "File Uploader for React + TailwindCSS",
-  "url": "https://yourwebsite.com",
+  "url": "https://file-uploader-react.vercel.app",
   "author": {
     "@type": "Person",
     "name": "vani0-0"
   },
-  "image": "https://yourwebsite.com/image.png"
+  "image": "http://via.placeholder.com/1280x720"
 }
